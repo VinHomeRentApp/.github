@@ -6,12 +6,12 @@ $ php -S localhost:3000
 ```
 ##
 # Home Page Preview
-![alt text](SWD/appointment_calendar.png)
+![alt text](./SWD/appointment_calendar.png)
 
 # About Page Preview
-![alt text](SWD/appointment_calendar.png)
+![alt text](./SWD/appointment_calendar.png)
 # Portofolio Page Preview
-![alt text](SWD/appointment_calendar.png)
+![alt text](./SWD/appointment_calendar.png)
 
 
 **Hopefully useful, for everything.** :smile: :punch:
