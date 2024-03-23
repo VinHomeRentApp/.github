@@ -6,7 +6,7 @@ $ php -S localhost:3000
 ```
 ##
 # Home Page Preview
-![alt text](SWD/appointment_calendar.png)
+![alt text]([SWD/appointment_calendar.png](https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/appointment_calendar.png))
 
 # About Page Preview
 ![alt text](SWD/appointment_calendar.png)
