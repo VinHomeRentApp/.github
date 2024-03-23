@@ -1,8 +1,5 @@
 # Whale Home Application
 Whale Home is a application that provide renting services for clients in VinHomes GrandPark.
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/VinHomeRentApp)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/VinHomeRentApp)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/VinHomeRentApp)
 ##
 ``` bash
 # running with dashboard
@@ -15,8 +12,10 @@ npm start
 or npm run android and npm run ios
 ```
 
+![alt text](https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/login_dashboard.png)
+
 ## Figma Whale Home Application
-![alt_text](https://www.figma.com/file/pfYLsimhrbASd5MPBUJ0IJ/SWD_Project_Figma?type=design&node-id=0%3A1&mode=design&t=ptJR6VrUpp6pQJB0-1)
+[![Figma Whale Home Application](https://www.figma.com/file/pfYLsimhrbASd5MPBUJ0IJ/SWD_Project_Figma?type=design&node-id=0%3A1&mode=design&t=ptJR6VrUpp6pQJB0-1)](https://www.figma.com/file/pfYLsimhrbASd5MPBUJ0IJ/SWD_Project_Figma?type=design&node-id=0%3A1&mode=design&t=ptJR6VrUpp6pQJB0-1)
 
 ##
 # Login Dashboard Page
