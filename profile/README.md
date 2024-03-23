@@ -1,5 +1,8 @@
 # Whale Home Application
 Whale Home is a application that provide renting services for clients in VinHomes GrandPark.
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/VinHomeRentApp)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/VinHomeRentApp)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/VinHomeRentApp)
 ##
 ``` bash
 # running with dashboard
