@@ -32,6 +32,51 @@ npm run ios
 [![Figma Whale Home Application](https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/figma-whalehome.png)](https://www.figma.com/file/pfYLsimhrbASd5MPBUJ0IJ/SWD_Project_Figma?type=design&node-id=0%3A1&mode=design&t=ptJR6VrUpp6pQJB0-1)
 
 ##
+# Mobile Screen
+<div style="width: 100%; height: 300;">
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-splash-screen.jpg" alt="Mobile Splash Screen" style="width: 30%; height: 100%;border: 10px solid white; border-radius: 10px">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-onboarding-screen.jpg" alt="Mobile Onboarding Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-signIn-SignUp.jpg" alt="Mobile Sign In Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-signUp-Screenjpg.jpg" alt="Mobile Sign Up Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-loading.jpg" alt="Mobile Loading Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-home-screen.jpg" alt="Mobile Home Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-search-post.jpg" alt="Mobile Search Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-view-detail-apartment.jpg" alt="Mobile View Detail Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-view-detail-image.jpg" alt="Mobile View Image Detail Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-model-3d-screem.jpg" alt="Mobile View 3d Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-profile-screen.jpg" alt="Mobile View Profile Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-change-password.jpg" alt="Mobile View Profile Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-edit-profile.jpg" alt="Mobile edit Profile Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-view-appointment.jpg" alt="Mobile View Appointment Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-detail-appointment.jpg" alt="Mobile View Detail Appointment Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-bill-screen.jpg" alt="Mobile View Bill Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-choose-payment.jpg" alt="Mobile Choose Payment Appointment Apartment Screen" style="width: 30%; height: auto;">
+  
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-payment-history.jpg" alt="Mobile Payment History Screen" style="width: 30%; height: auto;">
+  
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-contract..jpg" alt="Mobile Contracts Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-view-contract-detail.jpg" alt="Mobile View Contract Appointment Apartment Screen" style="width: 30%; height: auto;">
+
+  <img src="https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/mobile-view-contract-information.jpg" alt="Mobile View Contract Appointment Apartment Screen" style="width: 30%; height: auto;">
+</div>
+
 # Login Dashboard Page
 ![alt text](https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/login_dashboard.png)
 
