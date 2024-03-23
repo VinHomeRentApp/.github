@@ -12,7 +12,7 @@ npm start
 or npm run android and npm run ios
 ```
 
-![alt text](https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/login_dashboard.png)
+![alt text](https://github.com/VinHomeRentApp/.github/blob/main/profile/SWD/onboard.png)
 
 ## Figma Whale Home Application
 [![Figma Whale Home Application](https://www.figma.com/file/pfYLsimhrbASd5MPBUJ0IJ/SWD_Project_Figma?type=design&node-id=0%3A1&mode=design&t=ptJR6VrUpp6pQJB0-1)](https://www.figma.com/file/pfYLsimhrbASd5MPBUJ0IJ/SWD_Project_Figma?type=design&node-id=0%3A1&mode=design&t=ptJR6VrUpp6pQJB0-1)
